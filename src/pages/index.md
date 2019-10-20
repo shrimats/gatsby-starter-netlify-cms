@@ -1,9 +1,14 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Women in Technology
+image: /img/undraw_weather_app_i5sm.png
+heading: Women in Technology
+subheading: >-
+  As the premier professional association for women in the technology industry,
+  we understand the unique challenges you face. No matter where you are in your
+  professional development, or what technology-related field you're in, our
+  community offers a broad range of support, programs and resources to advance
+  women in technology from the classroom to the boardroom.
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +73,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
