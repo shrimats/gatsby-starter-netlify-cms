@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Women in Technology
-image: /img/undraw_weather_app_i5sm.png
+image: /img/undraw_breaking_barriers_vnf3.svg
 heading: Women in Technology
 subheading: >-
   As the premier professional association for women in the technology industry,
